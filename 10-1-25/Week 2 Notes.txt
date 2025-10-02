@@ -1,0 +1,18 @@
+Week 2 Notes:
+
+H1B Rules change overview monologue via Theo
+
+Review of Week 1 EC2 building and walkthrough of 2nd EC2 displaying:
+
+Customize Web Server To Say The Following
+"I, *insert Name Here*, Thank Theo And *insert Group Leader Name Here*, For Teaching Me About Ec2s In Aws. One Step Closer To Escaping Keisha!
+"With This Class, I Will Net *insert Dollar Amount* Per Year!"
+Include A Picture Of The Destination You Will Go To After Making Your Cloud Money
+
+Billing and Budget settings to remain cost effective by setting budgets dollar amount
+
+Instance Connect
+Connected to Amazon Linux 2023 and entered commands: ping 8.8.8.8
+stopped the pinging by pressing ctrl+c or ctrl+z
+
+Template building of Instances

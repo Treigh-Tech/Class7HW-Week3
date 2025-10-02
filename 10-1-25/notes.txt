@@ -1,0 +1,49 @@
+Class 7 - 9/23/25
+
+Topic  = command line, file management and GitHub
+
+goal for today = upload sample files from computer to a HitHub repo(sitory) using Bash (Windows) or Terminal (Mac/Linux)
+
+Notes:
+
+understand actual class lesson to achieve personal and professional goals Cloud money, travel and etc. stuck in Matrix with Matrix minded individuals
+
+Bash commands
+
+cd = change directory
+touch = create empty file
+mkdir = make directory
+ls - "lemme see" or look s___
+pwd = print working directory to display the path of the current directory
+rm = remove/delete
+cat = (Concatenate/Read Files): display contents
+
+GitHub
+
+Create a new repo in GitHub for uploading
+
+Keep these command line commands for future reference:
+
+or create a new repository on the command line
+
+echo "# Class7HW-Week3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Treigh-Tech/Class7HW-Week3.git
+git push -u origin main
+
+or push an existing repository from the command line
+
+git remote add origin https://github.com/Treigh-Tech/Class7HW-Week3.git
+git branch -M main
+git push -u origin main
+
+GitHub Init to Push to GitHub
+
+git config --global user.name "Treigh-Tech"
+git config --global user.email "232130879+Treigh-Tech@users.noreply.github.com"
+git config --global --list
+
+thisistest
